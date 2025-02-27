@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NhyraVirakah
-- 👀 I’m interested in graphic design, and handheld game systems.
-- 🌱 I’m currently learning to make my own handheld console with Pi, and many other artsty things.
-- 💞️ I’m looking to collaborate on nothing just yet!
-- 📫 How to reach me: Twitter, IG via @DragonboyToons
+- 👀 I’m interested in graphic design, game design. and music production.
+- 🌱 I’m currently learning to make game art + program in GDscript.
+- 💞️ I’m collaborating on a game.
+- 📫 How to reach me: Bluesky @nhyravirakah.bsky.social
 
 <!---
 NhyraVirakah/NhyraVirakah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
